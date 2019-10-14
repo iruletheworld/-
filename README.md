@@ -28,50 +28,8 @@ P.S. 图里我加了繁体，REMDME就算了。另外我也不懂注音。粤语
 
 拼音为机器转换的，若有差错，欢迎PR。
 
-* 达拉崩吧 ：
-<ruby>
-达<rp>(</rp><rt>dá</rt><rp>)</rp>
-</ruby>
-<ruby>
-拉<rp>(</rp><rt>lā</rt><rp>)</rp>
-</ruby>
-<ruby>
-崩<rp>(</rp><rt>bēng</rt><rp>)</rp>
-</ruby>
-<ruby>
-吧<rp>(</rp><rt>ba</rt><rp>)</rp>
-</ruby>
-/
-<ruby>
-巴<rp>(</rp><rt>bā</rt><rp>)</rp>
-</ruby>
-<ruby>
-斑<rp>(</rp><rt>bān</rt><rp>)</rp>
-</ruby>
-<ruby>
-得<rp>(</rp><rt>dé</rt><rp>)</rp>
-</ruby>
-<ruby>
-贝<rp>(</rp><rt>bèi</rt><rp>)</rp>
-</ruby>
-<ruby>
-迪<rp>(</rp><rt>dí</rt><rp>)</rp>
-</ruby>
-<ruby>
-卜<rp>(</rp><rt>bo</rt><rp>)</rp>
-</ruby>
-<ruby>
-多<rp>(</rp><rt>duō</rt><rp>)</rp>
-</ruby>
-<ruby>
-比<rp>(</rp><rt>bǐ</rt><rp>)</rp>
-</ruby>
-<ruby>
-鲁<rp>(</rp><rt>lǔ</rt><rp>)</rp>
-</ruby>
-<ruby>
-翁<rp>(</rp><rt>wēng</rt><rp>)</rp>
-</ruby>
+* 达拉崩吧：
+<ruby>达<rp>(</rp><rt>dá</rt><rp>(</rp></ruby><ruby>拉<rp>(</rp><rt>lā</rt><rp>(</rp></ruby><ruby>崩<rp>(</rp><rt>bēng</rt><rp>(</rp></ruby><ruby>吧/<rp>(</rp><rt>ba</rt><rp>(</rp></ruby><ruby>巴<rp>(</rp><rt>bā</rt><rp>(</rp></ruby><ruby>斑<rp>(</rp><rt>bān</rt><rp>(</rp></ruby><ruby>得<rp>(</rp><rt>dé</rt><rp>(</rp></ruby><ruby>贝<rp>(</rp><rt>bèi</rt><rp>(</rp></ruby><ruby>迪<rp>(</rp><rt>dí</rt><rp>(</rp></ruby><ruby>卜<rp>(</rp><rt>bo</rt><rp>(</rp></ruby><ruby>多<rp>(</rp><rt>duō</rt><rp>(</rp></ruby><ruby>比<rp>(</rp><rt>bǐ</rt><rp>(</rp></ruby><ruby>鲁<rp>(</rp><rt>lǔ</rt><rp>(</rp></ruby><ruby>翁<rp>(</rp><rt>wēng</rt><rp>(</rp></ruby>
 
 * 公主：
 <ruby>

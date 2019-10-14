@@ -17,6 +17,26 @@ __author__ = u'高斯羽 博士 (Dr. Gāo, Sī Yǔ)'
 __version__ = '1.0.0'
 __date__ = '2019-10-14'
 
+str_dalabengba_han = u'达拉崩吧巴斑得贝迪卜多比鲁翁'
+str_dalabengba_pyin = u'dá lā bēng ba bā bān dé bèi dí bo duō bǐ lǔ wēng'
+
+list_dalabengba_han = list(str_dalabengba_han)
+list_dalabengba_pyin = str_dalabengba_pyin.split()
+
+str_tag = ''
+
+for i, j in zip(list_dalabengba_han, list_dalabengba_pyin):
+
+    str_tag = (str_tag
+               + r'<ruby>'
+               + i
+               + r'<rp>' + r'(' + r'</rp>'
+               + r'<rt>' + j + r'</rt>'
+               + r'<rp>' + r'(' + r'</rp>'
+               + r'</ruby>')
+
+print(str_tag)
+
 str_wanghaoran_han = u'王格里拉德玛西亚卜多比鲁翁浩淏殇觞笺酅彟豳夔櫼爨纛褎然维萨尔卡拉奥克苏瓦西拉松'
 
 str_wanghaoran_pyin = (
@@ -28,6 +48,8 @@ list_wanghaoran_han = list(str_wanghaoran_han)
 list_wanghaoran_pyin = str_wanghaoran_pyin.split()
 
 str_tag = ''
+
+print('\n\n')
 
 for i, j in zip(list_wanghaoran_han, list_wanghaoran_pyin):
 
