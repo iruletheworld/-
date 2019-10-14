@@ -20,7 +20,7 @@ P.S. 图里我加了繁体，REMDME就算了。另外我也不懂注音。粤语
 
 # 超级乱的关系图，各种绿，各种伦
 
-![alt text](./daLaBengba.gv.svg)
+![alt text](./daLaBengba.gv.svg?sanitize=1)
 
 # 一些名字的集合
 
