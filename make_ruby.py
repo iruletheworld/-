@@ -32,7 +32,7 @@ for i, j in zip(list_dalabengba_han, list_dalabengba_pyin):
                + i
                + r'<rp>' + r'(' + r'</rp>'
                + r'<rt>' + j + r'</rt>'
-               + r'<rp>' + r'(' + r'</rp>'
+               + r'<rp>' + r')' + r'</rp>'
                + r'</ruby>')
 
 print(str_tag)
@@ -54,7 +54,7 @@ for i, j in zip(list_princess_han, list_princess_pyin):
                + i
                + r'<rp>' + r'(' + r'</rp>'
                + r'<rt>' + j + r'</rt>'
-               + r'<rp>' + r'(' + r'</rp>'
+               + r'<rp>' + r')' + r'</rp>'
                + r'</ruby>')
 
 print(str_tag)
@@ -76,7 +76,7 @@ for i, j in zip(list_dragon_han, list_dragon_pyin):
                + i
                + r'<rp>' + r'(' + r'</rp>'
                + r'<rt>' + j + r'</rt>'
-               + r'<rp>' + r'(' + r'</rp>'
+               + r'<rp>' + r')' + r'</rp>'
                + r'</ruby>')
 
 print(str_tag)
@@ -98,7 +98,7 @@ for i, j in zip(list_king_han, list_king_pyin):
                + i
                + r'<rp>' + r'(' + r'</rp>'
                + r'<rt>' + j + r'</rt>'
-               + r'<rp>' + r'(' + r'</rp>'
+               + r'<rp>' + r')' + r'</rp>'
                + r'</ruby>')
 
 print(str_tag)
@@ -106,9 +106,7 @@ print(str_tag)
 str_wanghaoran_han = u'王格里拉德玛西亚卜多比鲁翁浩淏殇觞笺酅彟豳夔櫼爨纛褎然维萨尔卡拉奥克苏瓦西拉松'
 
 str_wanghaoran_pyin = (
-    u'wáng gé lǐ lā dé mǎ xī yǎ bo duō bǐ lǔ wēng'
-    + u' hào hào shāng shāng jiān  xī yuē bīn kuí ji ān cuàn dào xiù'
-    + u' rán wéi sà ěr kǎ lā ào kè sū wǎ xī lā sōng')
+    u'wáng gé lǐ lā dé mǎ xī yà bo duō bǐ lǔ wēng hào hào shāng shāng jiān xī yuē bīn kuí jiān cuàn dào yòu rán wéi sà ěr kǎ lā ào kè sū wǎ xī lā sōng')
 
 list_wanghaoran_han = list(str_wanghaoran_han)
 list_wanghaoran_pyin = str_wanghaoran_pyin.split()
@@ -124,7 +122,7 @@ for i, j in zip(list_wanghaoran_han, list_wanghaoran_pyin):
                + i
                + r'<rp>' + r'(' + r'</rp>'
                + r'<rt>' + j + r'</rt>'
-               + r'<rp>' + r'(' + r'</rp>'
+               + r'<rp>' + r')' + r'</rp>'
                + r'</ruby>')
 
 print(str_tag)
@@ -146,7 +144,7 @@ for i, j in zip(list_queen_han, list_queen_pyin):
                + i
                + r'<rp>' + r'(' + r'</rp>'
                + r'<rt>' + j + r'</rt>'
-               + r'<rp>' + r'(' + r'</rp>'
+               + r'<rp>' + r')' + r'</rp>'
                + r'</ruby>')
 
 print(str_tag)
@@ -168,7 +166,7 @@ for i, j in zip(list_longaotian_han, list_longaotian_pyin):
                + i
                + r'<rp>' + r'(' + r'</rp>'
                + r'<rt>' + j + r'</rt>'
-               + r'<rp>' + r'(' + r'</rp>'
+               + r'<rp>' + r')' + r'</rp>'
                + r'</ruby>')
 
 print(str_tag)
@@ -190,7 +188,7 @@ for i, j in zip(list_xiaodi_han, list_xiaodi_pyin):
                + i
                + r'<rp>' + r'(' + r'</rp>'
                + r'<rt>' + j + r'</rt>'
-               + r'<rp>' + r'(' + r'</rp>'
+               + r'<rp>' + r')' + r'</rp>'
                + r'</ruby>')
 
 print(str_tag)
