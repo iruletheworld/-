@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 
 '''
-This script makes a flowchart.
+用Graphviz来整理一下达拉崩吧的人物关系。
 
 Change Log
 ----------------------
@@ -12,16 +12,11 @@ Change Log
 
 '''
 
-import os
-import textwrap
-import copy
-
-from graphviz import Graph
 from graphviz import Digraph
 
 __author__  = u'高斯羽 博士 (Dr. Gāo, Sī Yǔ)'
 __version__ = '1.0.0'
-__date__    = '2019-10-10'
+__date__    = '2019-10-14'
 
 int_txt_len = 16
 
@@ -145,6 +140,7 @@ relations.edge(str_dragon, str_king, color='green', label=' 和王后生\n下了
 relations.edge(str_dragon, str_hero, color='green', label=' 和公主生下\n了王浩然', fontcolor='green')
 relations.edge(str_son, str_dragon, color='green', label='\n 和母龙生下\n了龙傲天', fontcolor='green')
 
+# 红的关系
 relations.edge(str_son, str_hero, dir='both', label=' 同父异母\n的兄弟', color='red', fontcolor='red')
 relations.edge(str_shegon, str_son, dir='both', label=' 祖孙关系', color='red', fontcolor='red')
 
