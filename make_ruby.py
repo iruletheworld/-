@@ -37,6 +37,72 @@ for i, j in zip(list_dalabengba_han, list_dalabengba_pyin):
 
 print(str_tag)
 
+str_princess_han = u'米娅莫拉苏娜丹妮谢莉红'
+str_princess_pyin = u'mǐ yà mò lā sū nà dān nī xiè lì hóng'
+
+list_princess_han = list(str_princess_han)
+list_princess_pyin = str_princess_pyin.split()
+
+str_tag = ''
+
+print('\n\n')
+
+for i, j in zip(list_princess_han, list_princess_pyin):
+
+    str_tag = (str_tag
+               + r'<ruby>'
+               + i
+               + r'<rp>' + r'(' + r'</rp>'
+               + r'<rt>' + j + r'</rt>'
+               + r'<rp>' + r'(' + r'</rp>'
+               + r'</ruby>')
+
+print(str_tag)
+
+str_dragon_han = u'昆图库塔卡提考特苏瓦西拉松'
+str_dragon_pyin = u'kūn tú kù tǎ kǎ tí kǎo tè sū wǎ xī lā sōng'
+
+list_dragon_han = list(str_dragon_han)
+list_dragon_pyin = str_dragon_pyin.split()
+
+str_tag = ''
+
+print('\n\n')
+
+for i, j in zip(list_dragon_han, list_dragon_pyin):
+
+    str_tag = (str_tag
+               + r'<ruby>'
+               + i
+               + r'<rp>' + r'(' + r'</rp>'
+               + r'<rt>' + j + r'</rt>'
+               + r'<rp>' + r'(' + r'</rp>'
+               + r'</ruby>')
+
+print(str_tag)
+
+str_king_han = u'米现唐元保兹火勺吐假绍兵王'
+str_king_pyin = u'mǐ xiàn táng yuán bǎo zī huǒ sháo tǔ jiǎ shào bīng wáng'
+
+list_king_han = list(str_king_han)
+list_king_pyin = str_king_pyin.split()
+
+str_tag = ''
+
+print('\n\n')
+
+for i, j in zip(list_king_han, list_king_pyin):
+
+    str_tag = (str_tag
+               + r'<ruby>'
+               + i
+               + r'<rp>' + r'(' + r'</rp>'
+               + r'<rt>' + j + r'</rt>'
+               + r'<rp>' + r'(' + r'</rp>'
+               + r'</ruby>')
+
+print(str_tag)
+
 str_wanghaoran_han = u'王格里拉德玛西亚卜多比鲁翁浩淏殇觞笺酅彟豳夔櫼爨纛褎然维萨尔卡拉奥克苏瓦西拉松'
 
 str_wanghaoran_pyin = (
